@@ -3,7 +3,7 @@ include './assets/dbconx.php';
 include './view/header.php';
 ?>
 <!-- Table -->
-<table border="1" class="m-5 table table-striped table-hover table-bordered">
+<table border="1" class="m-5 table table-striped table-hover table-bordered text-center">
   <?php
   // Event Status
   if (isset($_GET['status'])) {
@@ -74,8 +74,6 @@ include './view/header.php';
     </div>
   </div>
 </form>
-
-
 
 <?php
 include './view/footer.php';
