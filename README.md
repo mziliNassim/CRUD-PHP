@@ -8,9 +8,9 @@ The `CRUD` Opertion : Create / Reade / Update / Delete
 
 - The `Read` operation allows for the retrieval of existing data, ensuring users can access relevant information as needed.
 
-- The Update operation, users can modify and edit existing data entries, ensuring accuracy.
+- The `Update` operation, users can modify and edit existing data entries, ensuring accuracy.
 
-- The Delete operation enable to remove unwanted data entries from the database (mySQL), maintaining cleanliness and organization within our application's data structure.
+- The `Delete` operation enable to remove unwanted data entries from the database (mySQL), maintaining cleanliness and organization within our application's data structure.
 
 ## Technologies
 
